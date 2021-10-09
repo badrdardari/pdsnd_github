@@ -160,13 +160,13 @@ def user_stats(df,city):
 
  """Displays statistics 10 rows by 10 rows"""
 def display_data(df):
-    view_data = input("Would you like to view 10 rows of individual trip data? Enter yes or no?")
+    view_data = input("Would you like to view 7 rows of individual trip data? Enter yes or no?")
     #if (view_data == 'no'):
       #  return
     start_loc = 0
     while (view_data == 'yes'):
-        print(df.iloc[start_loc:start_loc+10])
-        start_loc += 10
+        print(df.iloc[start_loc:start_loc+7])
+        start_loc += 7
         view_display = input("Do you wish to continue?:Enter yes or no ").lower()
         if view_display != 'yes':
             break
