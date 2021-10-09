@@ -4,14 +4,14 @@
 10/09/2021
 
 ### Project Title
-Replace the Project Title
+bikshare project
 
 ### Description
-Describe what your project is about and what it does
-
+This project focuses on pandas library in order to analys the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City.
 ### Files used
-Include the files used
-
+Chicago.csv
+Washington.csv
+new_york_city.csv
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
