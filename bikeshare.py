@@ -10,11 +10,11 @@ DAYS_LIST   = ['all','monday','tuesday','wednesday','thursday','friday','sunday'
 
 def get_filters():
     """
-    Ask user to specify a city, month, and day to analyze.
+     user to specify a city, month, and day to analyze.
 
     Returns:
-        city - name of the city to analyze
-        month - name of the month to filter by, or "all" to apply no month filter
+         city - name of the city to analyze
+         month - name of the month to filter by, or "all" to apply no month filter
          day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
