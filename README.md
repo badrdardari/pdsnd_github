@@ -7,11 +7,8 @@
 bikshare project
 
 ### Description
-This project focuses on pandas library in order to analys the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City.
+This project focuses on pandas library in order to analys the bikeshare data for three major U.S. cities - Chicago, Washington, and New York City.
 ### Files used
-Chicago.csv
-Washington.csv
-new_york_city.csv
+Chicago.csv,Washington.csv,new_york_city.csv
 ### Credits
-
-
+NONE
